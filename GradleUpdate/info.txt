@@ -1,0 +1,7 @@
+E:\Workspace\OtherDemo\KotlinStudy\GradleUpdate\src\main\java\Hello.java
+E:\Workspace\OtherDemo\KotlinStudy\GradleUpdate\src\main\java\Hello.java
+E:\Workspace\OtherDemo\KotlinStudy\GradleUpdate\src\main\kotlin\Hello.kt
+E:\Workspace\OtherDemo\KotlinStudy\GradleUpdate\src\main\java\Hello.java
+E:\Workspace\OtherDemo\KotlinStudy\GradleUpdate\src\main\kotlin\Hello.kt
+E:\Workspace\OtherDemo\KotlinStudy\GradleUpdate\src\main\java\Hello.java
+E:\Workspace\OtherDemo\KotlinStudy\GradleUpdate\src\main\kotlin\Hello.kt
