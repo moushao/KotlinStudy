@@ -12,7 +12,7 @@ interface View {
 
     //位置
     var width: Int
-    var heigt: Int
+    var height: Int
 
     //显示
     fun draw()
