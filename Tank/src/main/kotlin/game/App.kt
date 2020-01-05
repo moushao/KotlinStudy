@@ -1,4 +1,4 @@
-package game
+package org.itheima.game
 
 import javafx.application.Application
 

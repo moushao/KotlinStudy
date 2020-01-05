@@ -1,7 +1,8 @@
-package game
+package org.itheima.game
 
-//object 单列设计
+//object 单例
 object Config {
+
     /**
      * 方格的宽和高
      */

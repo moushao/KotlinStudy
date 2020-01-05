@@ -1,17 +1,24 @@
-package game.model
+package game.model.model
 
-import game.Config
+import game.model.business.Blockable
+import org.itheima.game.Config
 import org.itheima.kotlin.game.core.Painter
 
 /**
- * 砖墙
+ * 水墙
+ *
+ * 具备阻挡能力
  */
-class Water(override var x: Int, override var y: Int) : View {
-    /* override var x: Int = 200
-     override var y: Int = 200*/
-    override var width: Int = Config.gameWidth
-    override var height: Int = Config.gameHeight
+class Water(override val x: Int, override val y: Int) : Blockable {
 
+    //位置
+//    override var x: Int = 200
+//    override var y: Int = 200
+    //宽高
+    override var width: Int = Config.block
+    override var height: Int = Config.block
+
+    //显示行为
     override fun draw() {
         Painter.drawImage("img/water.gif", x, y)
     }
